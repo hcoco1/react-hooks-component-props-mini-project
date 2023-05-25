@@ -10,6 +10,7 @@
 
 Now that you've learned how to work with components in React, it's time to build
 something and put those skills to use! Your goal for this lab is to make a
+
 _static site_ in React to practice building components, writing JSX, and passing
 down data as props.
 
